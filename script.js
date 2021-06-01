@@ -95,7 +95,7 @@ alert(randArray(5));
 //  завдання 7
 let mas = [1,2,3,4];
 function lastElem(arr,x){
-    for(i = 1 ;i<=k;i++){
+    for(i = 1 ;i<=x;i++){
         alert(arr[arr.length - i ]);
     }
   
